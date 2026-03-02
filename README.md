@@ -2,9 +2,7 @@
 Exploratory Data Analysis (EDA) & Interactive Power BI Dashboard
 By Muluwerk Derebe — Statistical Analyst & Researcher
 
-accesse froom PowerBI Public repository:
-
-https://app.powerbi.com/groups/me/reports/01d9caab-dbd1-4cf1-95ab-70d4ed9c3df6/c938a11c1fcf667dd5a8?experience=power-bi
+[accesse froom PowerBI Public repository](https://app.powerbi.com/groups/me/reports/01d9caab-dbd1-4cf1-95ab-70d4ed9c3df6/c938a11c1fcf667dd5a8?experience=power-bi)
 
 📌 Overview
 This project presents a comprehensive Exploratory Data Analysis (EDA) of U.S. airport operations using 2018 flight data. The analysis focuses on flight volume, delays, cancellations, ground processing time, and passenger satisfaction. Insights are delivered through a fully interactive Power BI dashboard, supported by data transformations in Power Query and analytical measures written in DAX.
